@@ -12,3 +12,4 @@ int main(void)
         puts("\"Programming is like building a multilingual puzzle");
         return (0);
 }
+[A[A[A[A[A[A[A[A[A[A[A[A[B[B[/**[B[B[B[B[B[B[B[[[B[B[A}
