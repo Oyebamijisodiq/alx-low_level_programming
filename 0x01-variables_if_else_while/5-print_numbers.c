@@ -1,17 +1,16 @@
 #include <stdio.h>
 
 /**
-* main - Print all single digit numbers
-*
-* Return: Always 0 (Success)
-*/
+ * main - prints numbers from 0 to 10
+ * followed by a new line
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
-	int digit;
+	int n;
 
-	for (digit = 0; digit < 10; digit++)
-	printf("%i", digit);
-	putchar('\n');
-
+	for (n = 0; n < 10; n++)
+		printf("%d", n);
+	printf("\n");
 	return (0);
 }
